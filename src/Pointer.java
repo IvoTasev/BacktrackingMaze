@@ -1,4 +1,4 @@
-package Assignment_3;
+package src;
 
 public class Pointer {
     private Node.colors color;
